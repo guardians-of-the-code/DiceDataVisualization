@@ -1,4 +1,4 @@
-# DiceDataVisualization
+# Dice Data Visualization
 Goal of project is to familiarize ourselves with python and matplotlib by creating multiple graphs and visualizations for dice rolls.
 Phase one consists of 4 functional options
 ## Simulate
@@ -9,7 +9,7 @@ Simulate X amount of dice rolls of DXX dice. From there choose to download the d
 Using a file, take in all data, and correctly graph all data with visual appeal.
 
 *Will improve with python use and understanding of matplotlib.*
-## CollectData or Play DND
+## Collect Data or Play DND
 Effectively a realtime monitor of dice rolls and by the end of the night, you can reliable how many critical success or failures your group encountered. 
 
 *Will improve with python use and understanding of matplotlib.Perhaps for room to update graph in realtime which helps cement object oriented code.*
